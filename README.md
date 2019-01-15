@@ -1,2 +1,2 @@
 # zshsettings
-Personal zsh settings
+Personal minimalist zsh settings
