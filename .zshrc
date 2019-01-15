@@ -26,4 +26,7 @@ promptinit
 PROMPT='%m[%F{5}%~%f]%# '
 RPROMPT='%T'
 
+bindkey "\e[3~" delete-char
+
+
 alias ll='ls -lah --color'
