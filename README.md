@@ -1,0 +1,2 @@
+# zshsettings
+Personal zsh settings
